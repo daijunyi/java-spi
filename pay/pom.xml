@@ -19,16 +19,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <artifactId>pay-common</artifactId>
-            <groupId>com.daijunyi.spi</groupId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <artifactId>pay-common</artifactId>
-            <groupId>com.daijunyi.spi</groupId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
 
         <dependency>
             <artifactId>pay-ali</artifactId>
